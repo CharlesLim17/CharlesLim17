@@ -1,5 +1,4 @@
 - Hi, I’m @CharlesLim17
-- I’m currently learning web development (html, css, js, php)
 - I upload my files for my own archives and for future purposes
 
 <!---
