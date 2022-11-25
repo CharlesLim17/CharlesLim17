@@ -2,7 +2,7 @@ Hi, I’m @CharlesLim17
 I'm a 4th Year BSIT student from Polytechnic University of the Philippines
 
 Currently I'm working on projects that involves:
-- Front end development using html, css, vue js
+- Front end development using html, css, angular, react, vue js
 - Back end development using php
 - Android Development using kotlin, firebase
 
