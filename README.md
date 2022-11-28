@@ -4,7 +4,7 @@ I'm a 4th Year BSIT student from Polytechnic University of the Philippines
 Currently I'm working on projects that involves:
 - Front end development using html, css, angular, react, vue js
 - Back end development using php
-- Android Development using kotlin, firebase
+- Android Development using xml, kotlin, java, firebase
 
 I use github to:
 - To upload my projects for my own archives
