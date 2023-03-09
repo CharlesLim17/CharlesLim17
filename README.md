@@ -11,9 +11,6 @@ I use github to:
 - To collaborate with team members
 - To track my improvements from one project to another
 
-I am currently studying
-- Dart
-- Flutter
 
 <!---
 CharlesLim17/CharlesLim17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
