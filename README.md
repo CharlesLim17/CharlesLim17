@@ -5,6 +5,7 @@ Currently I'm working on projects that involves:
 - Front end development using html, css, vue
 - Back end development using php
 - Android Development using xml, kotlin, java, firebase
+- Django, HTMX
 
 I use github to:
 - To upload my projects for my own archives
