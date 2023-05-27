@@ -2,10 +2,10 @@ Hi, I’m @CharlesLim17
 I'm a 4th Year BSIT student from Polytechnic University of the Philippines
 
 Currently I'm working on projects that involves:
-- Front end development using html, css, vue
-- Back end development using php
+- Front end development using html, css, bootstrap, HTMX
+- Back end development using django
 - Android Development using xml, kotlin, java, firebase
-- Django, HTMX
+- Mobile Development using flutter
 
 I use github to:
 - To upload my projects for my own archives
