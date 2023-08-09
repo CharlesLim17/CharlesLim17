@@ -1,11 +1,11 @@
 Hi, I’m @CharlesLim17
-I'm a 4th Year BSIT student from Polytechnic University of the Philippines
+I'm a Junior Software Developer and a 4th Year BSIT student from Polytechnic University of the Philippines
 
 Currently I'm working on projects that involves:
 - Front end development using html, css, bootstrap, HTMX
 - Back end development using django
 - Android Development using xml, kotlin, java, firebase
-- Mobile Development using flutter
+- Mobile Development using flutter, riverpod
 
 I use github to:
 - To upload my projects for my own archives
