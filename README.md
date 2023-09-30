@@ -1,5 +1,5 @@
 Hi, I’m @CharlesLim17
-I'm a Junior Software Developer and a 4th Year BSIT student from Polytechnic University of the Philippines
+I'm a Junior Software Developer and a graduate BSIT student from Polytechnic University of the Philippines
 
 Currently I'm working on projects that involves:
 - Front end development using html, css, bootstrap, HTMX
