@@ -37,7 +37,7 @@
 <!-- ---------------------------- Statistics Section ---------------------------- -->
 <h2 align="center">🎊 Statistics 🎊</h2>
 <div align="center">
-  <img width=500 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CharlesLim17&theme=tokyonight&border_radius=16&card_width=500" alt="streak stats" />
+  <img width=500 src="https://streak-stats.demolab.com?user=CharlesLim17&theme=tokyonight&border_radius=16&card_width=500" alt="streak stats" />
 </div>
 
 
