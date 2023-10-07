@@ -1,12 +1,12 @@
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CharlesLim17.CharlesLim17" alt="visitor badge" />
 </div>
 
-<h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hello+there!+I'm+Charles!" alt="Typing SVG" /></a>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2500&pause=500&width=435&lines=Hello+There!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+Charles+Lim!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="left">A passionate software developer from Philippines.</h3>
+<h3 align="center">A passionate software developer from Philippines.</h3>
 
 
 Hi, I’m @CharlesLim17
