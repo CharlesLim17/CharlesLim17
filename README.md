@@ -12,9 +12,9 @@
   
   📱 I am currently working on mobile development projects.
   
-  👨‍💻 I mainly use flutter and riverpod.
+  👨‍💻 I mainly use flutter and riverpod as my tech stack.
   
-  🖥️ I also do backend development using django rest and fastapi.
+  🖥️ I do backend development using django rest and fastapi.
   
 </div>
 
