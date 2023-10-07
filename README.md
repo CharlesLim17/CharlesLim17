@@ -8,20 +8,18 @@
 
 <h3 align="center">A passionate software developer from Philippines.</h3>
 
+<div align="center">
+  📱 I am currently working on mobile development projects.
+  👨‍💻 I mainly use flutter and riverpod.
+  🖥️ I also do backend development using django rest and fastapi.
+</div>
 
-Hi, I’m @CharlesLim17
-I'm a Junior Software Developer and a graduate BSIT student from Polytechnic University of the Philippines
+<div align="center">
+  <a href="mailto:choylim06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
+</div>
 
-Currently I'm working on projects that involves:
-- Front end development using html, css, bootstrap, HTMX
-- Back end development using django
-- Android Development using xml, kotlin, java, firebase
-- Mobile Development using flutter, riverpod
-
-I use github to:
-- To upload my projects for my own archives
-- To collaborate with team members
-- To track my improvements from one project to another
 
 
 <!---
