@@ -38,6 +38,8 @@
 <h2 align="center">🎊 Statistics 🎊</h2>
 <div align="center">
   <img width=500 src="https://streak-stats.demolab.com?user=CharlesLim17&theme=tokyonight&border_radius=16&card_width=500" alt="streak stats" />
+  <br>
+  <img width=500 src="github-readme-stats-CharlesLim17.vercel.app/api?username=CharlesLim17&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=12" alt="readme stats" />
 </div>
 
 
