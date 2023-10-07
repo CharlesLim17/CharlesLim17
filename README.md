@@ -36,7 +36,7 @@
 
 <!-- ---------------------------- Tech Stacks ---------------------------- -->
 <h2 align="center">🛠️ Languages / Frameworks / Tools Used 🛠️</h2>
-<div alig="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin" />
     <br>
