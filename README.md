@@ -34,9 +34,17 @@
 
 <hr/>
 
+<!-- ---------------------------- Statistics Section ---------------------------- -->
+<h2 align="center">🎊 Statistics 🎊</h2>
+<div align="center">
+  <img width=500 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CharlesLim17&theme=tokyonight&border_radius=16&card_width=500" alt="streak stats" />
+</div>
+
+
+<hr/>
+
 <!-- ---------------------------- Tech Stacks ---------------------------- -->
 <h2 align="center">🛠️ Languages / Frameworks / Tools Used 🛠️</h2>
-<br/>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin" />
@@ -45,7 +53,3 @@
   </a>
 </div>
 
-<!---
-CharlesLim17/CharlesLim17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
