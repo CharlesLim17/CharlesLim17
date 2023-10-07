@@ -39,6 +39,7 @@
 <div alig="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin" />
+    <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,firebase,postgres,postman,figma,github,git" />
   </a>
 </div>
