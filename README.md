@@ -1,5 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharlesLim17.CharlesLim17" alt="visitor badge" />
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CharlesLim17.CharlesLim17" alt="visitor badge" />
+</div>
 
 Hi, I’m @CharlesLim17
 I'm a Junior Software Developer and a graduate BSIT student from Polytechnic University of the Philippines
