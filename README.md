@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharlesLim17.CharlesLim17" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CharlesLim17.CharlesLim17" alt="visitor badge" />
 
 
 Hi, I’m @CharlesLim17
