@@ -11,7 +11,9 @@
 <div align="center">
   
   📱 I am currently working on mobile development projects.
+  
   👨‍💻 I mainly use flutter and riverpod.
+  
   🖥️ I also do backend development using django rest and fastapi.
   
 </div>
