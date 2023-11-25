@@ -57,7 +57,7 @@
 <h2 align="center">🛠️ Languages / Frameworks / Tools Used 🛠️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin,go" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,js,firebase,postgres,postman,figma,github,git" />
   </a>
