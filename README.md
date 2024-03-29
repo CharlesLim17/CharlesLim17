@@ -16,11 +16,11 @@
 <!-- ---------------------------- Projects & Stacks ---------------------------- -->
 <div align="center">
   
-  📱 I am currently working on mobile development projects.
+  📱 I am currently working on web, mobile, & desktop development projects.
   
   👨‍💻 I mainly use flutter and riverpod as my frontend tech stack.
   
-  🖥️ I do backend development using go, django rest, and fastapi.
+  🖥️ I do backend development using go echo framework with postgresql.
   
 </div>
 
