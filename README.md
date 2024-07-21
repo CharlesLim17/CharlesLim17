@@ -71,4 +71,3 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Message+me+on+my+socials!" alt="Typing SVG Footer" />
  </a>
 </h1>
-
